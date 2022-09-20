@@ -1,0 +1,8 @@
+/*@Before()
+	public void initialize_driver() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\SAYPRAMA\\OneDrive - Capgemini\\Desktop\\chromeD\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver(opt);
+		  al= new AmazonLogin();
+		  
+		driver= new ChromeDriver();
+	}*/
